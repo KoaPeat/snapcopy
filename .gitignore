@@ -1,0 +1,12 @@
+# 编译中间产物：根目录的 悬浮截图.exe 与 dist 下的 zip 是刻意入库的发布物
+dist/SnapCopy.exe
+
+# 调试
+*.log
+SNAPCOPY_LOG*
+
+# 编辑器 / 系统
+.vs/
+*.user
+Thumbs.db
+desktop.ini
